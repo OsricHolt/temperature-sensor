@@ -1,1 +1,1 @@
-# My New Project
+# Temperature Monitor Project
